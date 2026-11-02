@@ -130,4 +130,5 @@ Developed as part of the **Artificial Intelligence Internship at CodeOrbit Tech*
 
 ## 🔗 GitHub Repository
 
-Add your actual GitHub repository URL here after creating the repository.
+https://github.com/Praneeth-mikklenani/AI-Image-Classifier
+
